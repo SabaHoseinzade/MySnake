@@ -1,0 +1,5 @@
+module-info.class
+org\example\mysnake\HelloController.class
+org\example\mysnake\Launcher.class
+org\example\mysnake\HelloApplication.class
+org\example\mysnake\HelloApplication$1.class
